@@ -3,6 +3,7 @@ An alternative title of 'Implementasi Bagging KNN pada Dataset Pemeliharaan Pred
 
 ## Project Description
 ![](assets/overview.png)
+
 This repository was made by the author's team to complete the final project challenge from Fresh Graduate Academy (FGA) and supporting the academic purpose. In this project, we propose a Bagging KNN for machine learning task. To use this project, you may want to install some specific library versions on your local machine.
 
 ## Contributor
